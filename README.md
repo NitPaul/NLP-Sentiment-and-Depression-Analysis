@@ -17,7 +17,7 @@ To analyze user reviews of the Spotify App from the Google Play Store and classi
 
 ### 📂 Files
 * **Notebook:** `Spotify_Sentiment_Code.ipynb`
-* **Full Report:** [**👉 Read Mid-Term Report (PDF)**](Spotify_Sentiment_Report.pdf)
+* **Full Report:** [**👉 Spotify_Sentiment_Report (PDF)**](Spotify_Sentiment_Report.pdf)
 
 ### 🛠️ Methodology
 * **Preprocessing:** Tokenization, Lemmatization, Stopword removal, and emoji handling.
@@ -35,7 +35,7 @@ To build a predictive system capable of detecting signs of depression and suicid
 
 ### 📂 Files
 * **Notebook:** `Depression_Detection_Code.ipynb`
-* **Full Report:** [**👉 Read Final Report (PDF)**](Depression_Detection_Report.pdf)
+* **Full Report:** [**👉 Depression_Detection_Report (PDF)**](Depression_Detection_Report.pdf)
 
 ### 🛠️ Methodology
 * **Data Cleaning:** Lowercasing, stemming, handling contractions, and cleaning social media noise (hashtags/URLs).
