@@ -16,8 +16,8 @@ This repository contains two advanced Natural Language Processing (NLP) projects
 To analyze user reviews of the Spotify App from the Google Play Store and classify them into **Positive**, **Negative**, or **Neutral** sentiments to understand user satisfaction and feature requests.
 
 ### 📂 Files
-* **Notebook:** `spotify_sentiment_analysis_colab.ipynb`
-* **Full Report:** [**👉 Read Mid-Term Report (PDF)**](nlp_mid_project_group_03.pdf)
+* **Notebook:** `Spotify_Sentiment_Code.ipynb`
+* **Full Report:** [**👉 Read Mid-Term Report (PDF)**](Spotify_Sentiment_Report.pdf)
 
 ### 🛠️ Methodology
 * **Preprocessing:** Tokenization, Lemmatization, Stopword removal, and emoji handling.
@@ -34,8 +34,8 @@ To analyze user reviews of the Spotify App from the Google Play Store and classi
 To build a predictive system capable of detecting signs of depression and suicidal ideation in social media posts. The goal is to distinguish between "non-suicide" (normal) text and "suicide" (at-risk) text to aid in early detection systems.
 
 ### 📂 Files
-* **Notebook:** `nlp_final_project_group_03.ipynb`
-* **Full Report:** [**👉 Read Final Report (PDF)**](nlp_final_project_group_03.pdf)
+* **Notebook:** `Depression_Detection_Code.ipynb`
+* **Full Report:** [**👉 Read Final Report (PDF)**](Depression_Detection_Report.pdf)
 
 ### 🛠️ Methodology
 * **Data Cleaning:** Lowercasing, stemming, handling contractions, and cleaning social media noise (hashtags/URLs).
@@ -66,7 +66,7 @@ To build a predictive system capable of detecting signs of depression and suicid
     pip install pandas numpy nltk scikit-learn tensorflow transformers matplotlib seaborn
     ```
 3.  **Run the analysis:**
-    Open `spotify_sentiment_analysis_colab.ipynb` or `nlp_final_project_group_03.ipynb` in Jupyter Notebook or Google Colab.
+    Open `Spotify_Sentiment_Code.ipynb` or `Depression_Detection_Code.ipynb` in Jupyter Notebook or Google Colab.
 
 ## 👥 Contributors
 * **NitPaul**
